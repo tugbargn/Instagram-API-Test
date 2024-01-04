@@ -1,0 +1,36 @@
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/appsettings.Development.json
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/appsettings.json
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/Instagram API Test
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/Instagram API Test.deps.json
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/Instagram API Test.runtimeconfig.json
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/Instagram API Test.dll
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/Instagram API Test.pdb
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/Microsoft.OpenApi.dll
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/Newtonsoft.Json.dll
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/RestSharp.dll
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/RestSharp.Serializers.NewtonsoftJson.dll
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/obj/Release/net7.0/Instagram API Test.csproj.AssemblyReference.cache
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/obj/Release/net7.0/Instagram API Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/obj/Release/net7.0/Instagram API Test.AssemblyInfoInputs.cache
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/obj/Release/net7.0/Instagram API Test.AssemblyInfo.cs
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/obj/Release/net7.0/Instagram API Test.csproj.CoreCompileInputs.cache
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/obj/Release/net7.0/Instagram API Test.MvcApplicationPartsAssemblyInfo.cs
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/obj/Release/net7.0/Instagram API Test.MvcApplicationPartsAssemblyInfo.cache
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/obj/Release/net7.0/staticwebassets/msbuild.Instagram API Test.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/obj/Release/net7.0/staticwebassets/msbuild.build.Instagram API Test.props
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/obj/Release/net7.0/staticwebassets/msbuild.buildMultiTargeting.Instagram API Test.props
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/obj/Release/net7.0/staticwebassets/msbuild.buildTransitive.Instagram API Test.props
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/obj/Release/net7.0/staticwebassets.pack.json
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/obj/Release/net7.0/staticwebassets.build.json
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/obj/Release/net7.0/staticwebassets.development.json
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/obj/Release/net7.0/scopedcss/bundle/Instagram API Test.styles.css
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/obj/Release/net7.0/Instagram API Test.csproj.CopyComplete
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/obj/Release/net7.0/Instagram API Test.dll
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/obj/Release/net7.0/refint/Instagram API Test.dll
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/obj/Release/net7.0/Instagram API Test.pdb
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/obj/Release/net7.0/Instagram API Test.genruntimeconfig.cache
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/obj/Release/net7.0/ref/Instagram API Test.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instagram API Test", "Instagram API Test\Instagram API Test.csproj", "{ADFF33D5-D24D-4901-8F69-4306C497DEEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADFF33D5-D24D-4901-8F69-4306C497DEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADFF33D5-D24D-4901-8F69-4306C497DEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADFF33D5-D24D-4901-8F69-4306C497DEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADFF33D5-D24D-4901-8F69-4306C497DEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7330C48D-1462-4F0F-9DAA-AF4DCB9B24C2}
+	EndGlobalSection
+EndGlobal

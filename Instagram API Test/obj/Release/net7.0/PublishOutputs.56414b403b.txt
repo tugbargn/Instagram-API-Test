@@ -1,0 +1,15 @@
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/publish/Instagram API Test
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/publish/appsettings.json
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/publish/Instagram API Test.dll
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/publish/Instagram API Test.deps.json
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/publish/Instagram API Test.runtimeconfig.json
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/publish/Instagram API Test.pdb
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/publish/Microsoft.OpenApi.dll
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/publish/Newtonsoft.Json.dll
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/publish/RestSharp.dll
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/publish/RestSharp.Serializers.NewtonsoftJson.dll
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/tugbaergen/Projects/Instagram API Test/Instagram API Test/bin/Release/net7.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
